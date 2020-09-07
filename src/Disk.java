@@ -9,7 +9,7 @@ import java.util.*;
  *  capacity: amount of total memory available
  *  files: a list of file sizes.  Totaling the file sizes should give the disk size
  */
-public class Disk implements Comparable<Disk>{
+public class Disk implements Comparable<Disk>{  
     private int myId;
     private int mySize;
     private int myCapacity;

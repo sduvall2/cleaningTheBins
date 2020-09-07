@@ -3,7 +3,7 @@ import java.io.*;
 
 public class Bins{
 
-    public static void main (String args[]){
+    public static void main (String args[]){  
         try{
             Scanner input = new Scanner(new File("sizes.txt"));
             List<Integer> data = new ArrayList<Integer>();
