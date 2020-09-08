@@ -7,7 +7,7 @@ import java.util.*;
  *  an id number, so it can be distinguished from other disks, 
  *  a size: amount of memory used up on the disk
  *  capacity: amount of total memory available
- *  files: a list of file sizes.  Totaling the file sizes should give the disk size
+ *  files: a list of file sizes.  Totaling the file sizes should give the disk size 
  */
 public class Disk implements Comparable<Disk>{
     private static final int DEFAULT_START_SIZE = 1000000;

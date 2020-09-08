@@ -77,7 +77,7 @@ public class Bins{
 			}
 		}
 		return pq;
-	}
+	} 
 
 	/*
 	 * Prints to the console various statistics about a collection
